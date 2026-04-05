@@ -1,7 +1,7 @@
 # ComputerGraphics Assignment
 ## Assignment Index
 
-| No. | Assignment | Notebook in `ComputerGraphics` | Standalone Repository |
+| No. | Assignment | Repository Link |
 | --- | --- | --- | --- |
 | 1 | Histogram-based image enhancement | [Histogram-based-Image-Enhancement](https://github.com/changyunyeong/Histogram-based-Image-Enhancement) |
 | 2 | Arithmetic operations on images | [Arithmetic-operations-on-images](https://github.com/changyunyeong/Arithmetic-operations-on-images) |
